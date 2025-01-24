@@ -1,0 +1,103 @@
+---
+title: "English or Math: Math Proficiency as a Better Predictor of Attitudes Toward Statistics"
+author: "Te-Chuan Kung"
+date: "March 6, 2024"
+format: html
+---
+
+## Abstract
+
+This study investigates whether math proficiency is a stronger predictor of attitudes toward statistics than English proficiency. By examining the relationship between these proficiencies and attitudes such as affect, cognitive value, and difficulty, the findings suggest that math proficiency better predicts positive attitudes toward statistics.
+
+---
+
+## Method
+
+### Participants
+- Total of 176 participants were recruited, with 60 participants included in the final analysis.  
+- Sample included both international and domestic students screened for completeness, validity, and attentiveness.
+
+### Measures
+- **Independent Variables**:  
+  - Self-reported English and math proficiencies (rated on a scale of 1 to 10).  
+  - Relevance of statistics to future careers (rated on a scale of 1 to 10).  
+- **Dependent Variables**:  
+  - Attitudes toward statistics, measured by dimensions of affect, cognitive value, and difficulty.
+
+### Procedure
+- Participants completed a 10-minute online questionnaire.  
+- Data collection included age, demographic information, and ratings for proficiencies and career relevance.  
+- Ethical approval was granted by the University of Toronto’s Research Ethics Board, and participants provided informed consent.  
+
+---
+
+## Results
+
+### Descriptive Analysis
+Key averages and ranges:  
+- **Math Proficiency**: Mean = 6.03, SD = 1.85.  
+- **English Proficiency**: Mean = 8.82, SD = 1.47.  
+- **Affect**: Mean = 3.83, SD = 1.11.  
+
+### Correlation Analysis
+- **Math Proficiency and Affect**: Positive correlation, \(r(58) = 0.402\), \(p < 0.05\).  
+- **English Proficiency and Difficulty**: Weak positive correlation, \(r(58) = 0.203\), \(p < 0.05\).  
+- **Affect and Cognitive Value**: Strong positive correlation, \(r(58) = 0.781\), \(p < 0.05\).  
+
+### Between-Subjects ANOVA
+- **Math Proficiency and Affect**: Significant differences between low, medium, and high groups, \(F(2,57) = 8.29\), \(p < 0.05\).  
+- **Math Proficiency and Cognitive Value**: Significant differences, \(F(2,57) = 15.03\), \(p < 0.05\).  
+- **Math Proficiency and Difficulty**: Significant differences, \(F(2,57) = 6.47\), \(p < 0.05\).  
+- **English Proficiency Groups**: No significant differences in affect, cognitive value, or difficulty.  
+
+---
+
+## Discussion
+
+The findings suggest that:
+1. Math proficiency positively correlates with affect, cognitive value, and difficulty in statistics.  
+2. English proficiency has a weaker predictive value, with no significant differences across dependent variables.  
+
+### Implications
+- Math skills play a critical role in shaping students’ attitudes toward statistics.  
+- Results emphasize the need to support math proficiency to foster better engagement with statistics.  
+
+### Limitations
+- Small sample size reduces generalizability.  
+- Self-reported measures may introduce bias.  
+- Study relied on WEIRD (Western, Educated, Industrialized, Rich, and Democratic) samples, limiting cross-cultural applicability.  
+
+---
+
+## Conclusion
+
+Math proficiency emerges as a stronger predictor of positive attitudes toward statistics compared to English proficiency. Future research should explore the role of other factors, such as anxiety and teaching methodologies, in shaping attitudes toward statistics.
+
+---
+
+## PDF Download
+
+For the complete paper, including detailed tables and figures, download the PDF below:
+
+**[View PDF](pdfs/psy202 writing project.pdf)**
+
+---
+
+## References
+
+1. Schau, C., Stevens, J., Dauphinee, T. L., & Vecchio, A. D. (1995). The development and validation of the survey of attitudes toward statistics. *Educational and Psychological Measurement*, 55(5), 868–875.  
+2. Schau, C. (2003). Students’ attitudes: The “other” important outcome in statistics education. In *Proceedings of the Joint Statistical Meetings* (pp. 3673–3681).
+
+---
+
+## Appendix
+
+### Descriptive Data
+- **Math Proficiency**: Mean = 6.03, SD = 1.85.  
+- **English Proficiency**: Mean = 8.82, SD = 1.47.  
+- **Relevance of Statistics**: Mean = 5.72, SD = 2.39.  
+
+### Figures
+1. Correlation between math proficiency and affect.  
+2. Correlation between English proficiency and difficulty.  
+3. Differences in affect and cognitive value across math proficiency groups.  

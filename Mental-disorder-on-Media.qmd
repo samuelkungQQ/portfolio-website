@@ -1,0 +1,94 @@
+---
+title: "Mental Disorders in Media: Beth Harmon’s Struggle with Addiction in *The Queen’s Gambit*"
+author: "Samuel Kung"
+format: html
+---
+
+## Introduction
+
+The depiction of mental health in media has significant implications for public understanding and stigma reduction. This report explores Beth Harmon’s struggle with substance use disorder (SUD) in *The Queen’s Gambit*, a Netflix series that intertwines addiction with the pressures of professional chess. By analyzing Beth’s behaviors and challenges, this study evaluates the accuracy, impact, and gaps in media portrayals of mental illness.
+
+---
+
+## Case Vignette
+
+Beth Harmon, a fictional character in *The Queen’s Gambit*, is a 20-year-old professional chess player from Winchester, Kentucky. Her journey reflects a complex relationship with addiction stemming from traumatic childhood events, including the loss of her parents and her time at an orphanage where she was introduced to tranquilizers. Over time, Beth developed dependencies on both tranquilizers and alcohol, severely impacting her career, relationships, and mental health.
+
+### Key Details
+- **Early Trauma**: Beth’s mother’s suicide and life in an orphanage shaped her psychological vulnerability.  
+- **Introduction to Substances**: At the orphanage, Beth hoarded tranquilizers (a fictional drug called xanzolam) and used them to enhance her focus on chess.  
+- **Progression of Addiction**:  
+  - Dependency escalated with the addition of alcohol, introduced by her adoptive mother.  
+  - Substance use became a coping mechanism during personal and professional failures.  
+
+---
+
+## Diagnostic Analysis
+
+### Substance Use Disorder (SUD) Criteria (DSM-5)
+
+Beth exhibits multiple symptoms consistent with severe SUD, including:
+
+1. **Impairment of Control**:  
+   - Consumes tranquilizers and alcohol in increasing amounts.  
+   - Experiences cravings and loss of control over substance use.  
+
+2. **Social Impairment**:  
+   - Neglects relationships, pushing away friends and supporters.  
+   - Fails to fulfill career obligations due to substance effects, such as losing a critical chess match.  
+
+3. **Tolerance and Withdrawal**:  
+   - Requires higher doses of tranquilizers to achieve the same effect.  
+   - Suffers withdrawal symptoms, including anxiety and irritability, when unable to access substances.
+
+4. **Impact on Life**:  
+   - Addiction disrupts both her career as a chess player and her personal well-being.  
+
+Beth’s behaviors align with at least 8–9 of the DSM-5 criteria, indicating severe SUD. While the series does not explicitly diagnose her condition, her struggles meet the clinical definition of addiction.
+
+---
+
+## Treatment Recommendations
+
+Beth’s case highlights the need for tailored interventions, including:
+
+1. **Detoxification and Education**:  
+   - A structured detox program to address physical dependence.  
+   - Education on the risks and consequences of substance use.  
+
+2. **Therapeutic Interventions**:  
+   - **Group Therapy**: Builds social connections and enhances communication skills.  
+   - **Motivational Interviewing**: Leverages Beth’s love of challenges to encourage behavioral change.  
+
+3. **Support Systems**:  
+   - Engagement with friends and mentors to provide emotional and practical support.  
+
+---
+
+## Media Reflection
+
+### Strengths in Portrayal
+- *The Queen’s Gambit* accurately captures the progression of addiction, depicting Beth’s reliance on substances and its impact on her life.  
+- By portraying a high-functioning individual with SUD, the series helps destigmatize addiction, emphasizing its complexity and prevalence.
+
+### Limitations
+- The series oversimplifies addiction by heavily associating it with career pressures.  
+- It lacks depth in exploring recovery, offering limited insight into therapeutic processes or coping mechanisms.  
+
+### Broader Implications
+- Media should strive for more comprehensive representations of mental health, addressing the interplay of genetic, psychological, and environmental factors in addiction.  
+- Including recovery narratives can inspire hope and promote awareness of available resources.
+
+---
+
+## Conclusion
+
+Beth Harmon’s journey in *The Queen’s Gambit* presents a nuanced yet incomplete depiction of substance use disorder. While the series humanizes addiction and contributes to reducing stigma, it falls short in addressing recovery and the multifaceted nature of mental health. By improving the accuracy and depth of mental illness portrayals, media can play a pivotal role in fostering greater understanding and empathy.
+
+---
+
+## References
+
+All information and interpretations are based on the Netflix series *The Queen’s Gambit*. Further studies can expand this analysis using clinical literature and comparative media studies.
+
+**[View the Report Here](pdfs/Mental disorder on Media.pdf)**

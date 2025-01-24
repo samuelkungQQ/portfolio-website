@@ -1,0 +1,85 @@
+---
+title: "Attachment and Exploration in Early Childhood"
+author: "Samuel Kung"
+format: html
+---
+
+## Abstract
+
+Attachment theory posits that early relationships with caregivers profoundly shape children’s emotional, behavioral, and cognitive development. Bowlby’s secure base hypothesis emphasizes the caregiver’s role in fostering exploration by providing a sense of safety. This study investigates whether securely attached children explore their environment more actively in the presence of their caregiver compared to insecurely attached children. By reviewing foundational research and conducting an experiment, the study explores the implications of attachment security for developmental psychology and caregiving practices.
+
+---
+
+## Literature Review
+
+### Overview of Attachment Theory
+Attachment theory, proposed by John Bowlby, highlights the biological predisposition of infants to form attachments that ensure survival and foster emotional security. Ainsworth’s Strange Situation Procedure (SSP) provided empirical evidence for this theory, categorizing attachment into secure, insecure-avoidant, insecure-ambivalent, and insecure-disorganized styles.
+
+### Attachment and Exploration
+Secure attachment, through the concept of the caregiver as a "secure base," facilitates exploration by reducing fear and promoting confidence. Research demonstrates that securely attached children exhibit more advanced exploratory behaviors, such as problem-solving and symbolic play, compared to their insecurely attached peers. 
+
+### Gaps in the Literature
+While the benefits of secure attachment for exploration are well-documented, the situational effects of caregiver presence remain underexplored. This study addresses these gaps by examining exploratory behaviors in securely and insecurely attached children under different conditions.
+
+---
+
+## Methodology
+
+### Participants
+The study will recruit 50 children aged 18–24 months, evenly distributed across secure and insecure attachment styles. Participants will be assessed using Ainsworth’s SSP and represent diverse cultural and socioeconomic backgrounds.
+
+### Experimental Design
+- **Condition A**: Exploration with the caregiver present.  
+- **Condition B**: Exploration without the caregiver.  
+
+Children will explore a controlled playroom with age-appropriate toys under both conditions. Exploratory behaviors, proximity-seeking, and signs of distress will be recorded and coded for analysis.
+
+### Data Analysis
+Exploratory behaviors will be analyzed using repeated-measures ANOVA, with attachment style and caregiver presence as factors.
+
+---
+
+## Predicted Results
+
+It is hypothesized that:
+- Securely attached children will demonstrate higher levels of exploration in the caregiver’s presence, consistent with Bowlby’s secure base hypothesis.
+- Insecurely attached children will exhibit limited exploration across both conditions, with variations depending on attachment subtype.
+
+---
+
+## Discussion
+
+The findings are expected to:
+- Reinforce the critical role of secure attachment in fostering exploration and autonomy.  
+- Highlight the importance of responsive caregiving in early childhood development.  
+- Provide evidence for integrating attachment-based frameworks in educational and clinical settings.
+
+### Limitations
+- Small sample size may limit generalizability.  
+- Controlled playroom settings may lack ecological validity.  
+- Individual differences, such as temperament, may confound results.
+
+---
+
+## Conclusion
+
+This study seeks to deepen understanding of the secure base phenomenon, emphasizing the importance of early attachment relationships in shaping developmental outcomes. The findings could inform caregiving practices, early education policies, and future research into the dynamics of attachment and exploration.
+
+---
+
+## PDF Download
+
+For the complete study, download the PDF below:
+
+**[View PDF](pdfs/psy 311 final paper.pdf)**
+
+---
+
+## References
+
+1. Ainsworth, M. D. S., Blehar, M., Waters, E., & Wall, S. N. (2015). *Patterns of attachment: A psychological study of the strange situation*. Psychology Press.
+2. Bowlby, J. (1982). Attachment and loss: Retrospect and prospect. *American Journal of Orthopsychiatry*, 52(4), 664–678.  
+3. Johnson, S. C., Dweck, C. S., & Chen, F. S. (2007). Evidence for infants’ internal working models of attachment. *Psychological Science*, 18(6), 501–502.  
+4. Sroufe, L. A. (2005). Attachment and development: A prospective longitudinal study from birth to adulthood. *Attachment & Human Development*, 7(4), 349–367.  
+5. van IJzendoorn, M. H., & Kroonenberg, P. M. (1988). Cross-cultural patterns of attachment: A meta-analysis of the strange situation. *Child Development*, 59(1), 147.
+

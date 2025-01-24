@@ -1,0 +1,92 @@
+---
+title: "Stress and Memory in Students: When Pressure Enhances and Hinders Recall"
+author: "Alissia Juravlev, Maria Welsh, & Samuel Kung"
+date: "March 17, 2024"
+format: html
+---
+
+## Introduction
+
+University students are exposed to high levels of stress, which can significantly impact memory functions during studying and exams. Working memory (WM) and episodic memory (EM) are integral to exam performance:  
+- **Working Memory**: Supports mathematics and reading comprehension.  
+- **Episodic Memory**: Enables content recall during exams.  
+
+Stress triggers physiological responses, including the release of catecholamines and glucocorticoids, which modulate neural activity in the hippocampus, amygdala, striatum, and prefrontal cortex (PFC). These changes in neural activity differentially impact the encoding and retrieval of memory.
+
+---
+
+## Research Questions
+
+1. How does stress affect working memory performance under different conditions?  
+2. When does stress enhance or impair episodic memory recall?  
+3. How does stress during encoding and retrieval impact WM and EM in students?
+
+---
+
+## Methods
+
+### Memory Performance Assessments
+- **Working Memory**: Measured using the n-back task, backward span task, reading span, and OSPAN/AOSPAN.  
+- **Episodic Memory**: Evaluated using recall tasks (free or cued recall) and recognition tasks.  
+
+### Inducing Acute Stress in Laboratory Settings
+Acute stress was induced using:  
+- Trier Social Stress Test (TSST).  
+- Cold Pressor Task (CPT).  
+- Exogenous cortisone administration.
+
+---
+
+## Results
+
+### Working Memory and Stress
+- Stress impacts WM performance depending on timing (encoding vs. retrieval) and participant characteristics (e.g., sex).  
+- **Stress Effects on WM**:  
+  - Enhanced or impaired performance varies by stress phase.  
+
+### Episodic Memory and Stress
+- Episodic memory recall can either be enhanced or impaired based on stress levels during encoding and retrieval.  
+- **Sex Differences**:  
+  - Males and females show different patterns of memory performance under stress.
+
+---
+
+## Conclusions
+
+### Key Insights
+- Stress has complex effects on memory, sometimes enhancing performance during encoding but impairing it during retrieval.  
+- These effects are modulated by factors such as memory type (WM vs. EM), sex, and the phase of stress exposure.  
+
+### Limitations
+- Laboratory-induced stress conditions may not fully replicate real-life stress.  
+- Reliance on standardized tests limits ecological validity.  
+- Lack of diversity in participant samples (WEIRD populations).  
+
+### Future Directions
+- Explore diverse demographics (non-WEIRD populations).  
+- Conduct longitudinal and case studies.  
+- Investigate modulators (e.g., personality) and mediators (e.g., coping strategies).  
+- Examine encoding specificity and its interaction with stress.
+
+---
+
+## Implications
+
+These findings have practical applications for:  
+- Devising better studying strategies under stress.  
+- Understanding real-time decision-making under pressure.  
+- Exploring differences in stress responses by sex, memory types, and encoding/retrieval dynamics.
+
+---
+
+## PDF Download
+
+For the complete poster, including all visuals and detailed data, download the PDF below:
+
+**[View PDF](pdfs/PSY372 Poster (14).pdf)**
+
+---
+
+## References
+
+1. Alissia Juravlev, Maria Welsh, & Samuel Kung. (2024). *Stress and Memory in Students: When Pressure Enhances and Hinders Recall*. Department of Psychology, University of Toronto.

@@ -1,5 +1,5 @@
 ---
-title: "Tim Chen"
+title: "Samuel Kung"
 about:
   template: trestles
   links:
@@ -7,21 +7,45 @@ about:
       href: pdfs/resume_2025.pdf
     - icon: envelope
       text: "Email"
-      href: "mailto:timchen0326ca@gmail.com"
-    - icon: github
-      text: "GitHub"
-      href: https://github.com/timchen0326
+      href: "mailto:samuelkung0521@gmail.com"
     - icon: linkedin
       text: "LinkedIn"
-      href: https://www.linkedin.com/in/timchen0326/
+      href: https://www.linkedin.com/in/samuel-kung-85a440329/
 ---
 
-I am an **Honours Bachelor of Science (HBSc)** student at the **University of Toronto**, specializing in **Mathematics** with a focus on **Probability and Statistics**. Alongside my major, I am pursuing minors in **Computer Science** and **Statistics**. I am deeply passionate about solving practical problems using **statistical analysis**, **machine learning**, and **data visualization** techniques.
+I am an **Honours Bachelor of Science (HBSc)** student at the **University of Toronto**, specializing in **Psychology** with a minor in **Philosophy**. My academic journey is deeply rooted in understanding human behavior, with a focus on **Social Psychology**, **Cognitive Psychology**, and **Psychopathology and Clinical Science** (DSM-V). I also have a solid foundation in **Statistics and Data Analysis**, which I leverage in my research projects.
 
-During my academic journey, I have completed advanced coursework in fields like **Machine Learning**, **Data Analysis**, **Statistical Theory**, and **Software Design**. These studies have equipped me with a strong foundation in data-driven methodologies and programming.
+During my professional experience as a **Children and Adolescent Social Worker Intern** at **Good Friend Mission** in Taipei, Taiwan, I:
+- Interacted with and evaluated 20 social caseworks alongside senior social workers.  
+- Planned and participated in 50 activities aimed at youth self-growth and life skills enhancement.  
+- Gained expertise in **Adverse Childhood Experiences (ACE)**, **re-trauma prevention**, and **sensory integration techniques**.  
 
-I have professional experience as a **Frontend Software Engineer Intern** at **MAYOHR**, where I worked with **TypeScript**, **React**, and **RESTful APIs** to develop features that improved user efficiency. Additionally, I utilized **Python** for frontend testing, streamlining integration and enhancing overall troubleshooting processes.
+### Selected Academic Projects
+- **Model Mental Disorder Case Vignette Evaluation**:  
+  - Evaluated fictional characters using DSM-V criteria.  
+  - Developed treatment suggestions and reflected on the depiction of mental disorders in media.  
 
-My project portfolio includes an analysis of **Toronto crime patterns** using **Bayesian logistic regression**, developing an app for managing **NBA statistics** with **Java** and **Python**, and forecasting **U.S. presidential election results** using regression models. I also conducted a detailed examination of **shelter trends in Toronto**, highlighting key seasonal demands.
+- **Experiment Proposal on Attachment and Exploration in Early Childhood**:  
+  - Designed a study investigating the relationship between attachment styles and exploratory behavior.  
+  - Proposed data analysis techniques to predict outcomes and compared findings with existing literature.  
 
-I am proficient in **Python**, **SQL**, **R**, **TypeScript**, **JavaScript**, and **Java**, with experience using tools like **Tableau**, **Power BI**, and **Quarto**. I hold the **Google Data Analytics Professional Certificate**, underscoring my skills in **data cleaning**, **analysis**, and **visualization**. Beyond technical skills, I have honed my organizational and problem-solving abilities through leadership roles and collaborative projects.
+- **Stress and Memory in Students Study**:  
+  - Conducted a study on how stress enhances or hinders memory encoding and recall in young adults.  
+  - Presented results through an APA-style poster and public presentation.  
+
+- **English and Math Proficiencies’ Influence on Statistics Attitudes**:  
+  - Analyzed statistical data using descriptive statistics, t-tests, and ANOVA.  
+  - Synthesized findings through Excel, hand-written calculations, and literature review.
+
+### Skills
+**Technical Skills**:  
+- Proficient in **data analysis** and **APA-style writing**.  
+- Experienced in **Microsoft Office** (Word, Excel, PowerPoint).  
+- Fluent in **Mandarin Chinese**.  
+
+**Soft Skills**:  
+- Strong communication and critical thinking abilities.  
+- Leadership and teamwork expertise, cultivated through professional and academic settings.  
+- Empathetic and professional, with a focus on ethical work practices.
+
+This combination of academic rigor and hands-on experience equips me to contribute meaningfully to the field of psychology, whether in research, clinical, or community-oriented roles.

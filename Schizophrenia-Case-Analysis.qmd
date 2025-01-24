@@ -1,0 +1,111 @@
+---
+title: "Schizophrenia Case Analysis: Sarah Miller"
+author: "Samuel Kung"
+format: html
+---
+
+## Introduction
+
+Schizophrenia is a complex and chronic mental disorder with profound impacts on cognition, behavior, and overall functioning. This report examines the case of Sarah Miller, a 28-year-old woman diagnosed with schizophrenia, highlighting her clinical presentation, diagnostic process, and treatment plan. Additionally, the use of artificial intelligence (AI) in clinical psychology is discussed in the context of case vignettes.
+
+---
+
+## Case Description
+
+### Patient Information
+- **Name**: Sarah Miller  
+- **Age**: 28 years old  
+- **Background**: Previously employed as a graphic designer, Sarah was described by her family as creative, social, and ambitious. She has no significant medical history or known family history of mental illness.
+
+### Presenting Concerns
+Sarah exhibited a sudden and alarming change in behavior over the past three months:
+- Withdrawal from social activities.  
+- Neglect of personal hygiene.  
+- Paranoid beliefs, such as thoughts being broadcast on television.  
+- Emotional outbursts and talking to herself.
+
+### Clinical Presentation
+- **Symptoms**:  
+  - Auditory hallucinations: Voices criticizing her and calling her worthless.  
+  - Paranoid delusions: Belief in hidden cameras and secret plots against her.  
+  - Disorganized thinking and speech: Tangential speech and difficulty staying on topic.  
+  - Flattened affect, impaired concentration, and irregular sleep patterns.  
+- **Functioning**: Significant decline in self-care and professional performance, culminating in job loss.
+
+---
+
+## Diagnosis and Assessment
+
+### Diagnosis: Schizophrenia
+Sarah meets DSM-5 criteria for schizophrenia, as evidenced by:
+1. **Positive Symptoms**:  
+   - Hallucinations (auditory).  
+   - Delusions (persecutory/paranoid).  
+
+2. **Disorganized Symptoms**:  
+   - Tangential speech and disorganized thinking.  
+
+3. **Functional Impairment**:  
+   - Decline in social and occupational functioning.  
+
+### Differential Diagnoses
+Potential alternative diagnoses considered include:
+- Mood disorders with psychotic features.  
+- Substance-induced psychotic disorders.  
+- Neurological or medical conditions causing psychosis.  
+
+A thorough evaluation, including a medical history and neuroimaging, is essential to rule out these conditions.
+
+---
+
+## Treatment Plan
+
+Sarah’s treatment involves a multidimensional approach:
+
+1. **Pharmacotherapy**:  
+   - Antipsychotic medication to address psychotic symptoms.  
+   - Regular monitoring for side effects and efficacy.  
+
+2. **Psychotherapy**:  
+   - Cognitive-behavioral therapy (CBT) to address paranoid delusions and improve coping skills.  
+   - Individual and family therapy for psychoeducation and support.  
+
+3. **Social Reintegration**:  
+   - Gradual reintroduction to social activities to rebuild support systems.  
+
+4. **Ongoing Monitoring**:  
+   - Regular follow-ups to assess treatment progress and make necessary adjustments.  
+
+---
+
+## Reflection on AI in Clinical Psychology
+
+### Strengths of AI
+- **Efficiency**: AI quickly generates detailed and realistic case vignettes, supporting educational and diagnostic processes.  
+- **Accessibility**: AI democratizes access to mental health information, enhancing public awareness.  
+
+### Limitations of AI
+- **Lack of Empathy**: AI lacks the nuanced understanding and emotional sensitivity of human clinicians.  
+- **Ethical Concerns**: Risks to privacy and data security must be managed to protect sensitive information.  
+
+AI serves as a valuable tool in mental health care but should complement, not replace, human expertise.
+
+---
+
+## Conclusion
+
+Sarah Miller’s case illustrates the complex presentation and challenges of schizophrenia. While the prognosis depends on various factors, early intervention and a comprehensive treatment plan can significantly improve outcomes. The integration of AI in clinical psychology offers promise but requires careful oversight to balance its benefits and limitations.
+
+---
+
+## PDF Download
+
+For the full report, including additional details, download the PDF below:
+
+**[View PDF](pdfs/PSY240 AS1.pdf)**
+
+---
+
+## References
+
+All information and insights are based on clinical guidelines and the case vignette provided. Further research into schizophrenia and AI applications in psychology is encouraged.

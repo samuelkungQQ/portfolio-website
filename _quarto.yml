@@ -3,34 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Tim Chen"
-  site-url: "https://weitingchen.com"
+  title: "Samuel Kung"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - href: courses.qmd
-        text: Courses
-      - text: Hobbies
-        menu:
-          - href: coffee.qmd
       - text: Projects
         menu: 
-          - toronto-crime-analysis.qmd
-          - us-presidential election.qmd
-          - toronto-shelter-analysis.qmd
-          - bike-theft-analysis.qmd
-          - iMDb-analysis.qmd
-          - mayohr-intern.qmd
-          - traffic-collision-analysis.qmd
-      - href: https://timsplayland.vercel.app/
-        text: Portfolio
+          - Mental-disorder-on-Media.qmd
+          - Attachment-and-Exploration-in-Early-Childhood.qmd
+          - English-or-Math.qmd
+          - Schizophrenia-Case-Analysis.qmd
+          - Stress-and-Memory-in-Students.qmd
       - text: "Resume"
         href: pdfs/resume_2025.pdf
-      - icon: github
-        href: https://github.com/timchen0326
       - icon: envelope
-        href: "mailto:timchen0326ca@gmail.com"
+        href: "mailto:samuelkung0521@gmail.com"
 
 format:
   html:
